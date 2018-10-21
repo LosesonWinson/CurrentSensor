@@ -8,4 +8,4 @@
 * I created and submitted my proposal this week
 * Start working on my project plan for week 3
 
-![ProjectPlanImage](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/WinsonProjectSchedule.pdf)
+!(https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/WinsonProjectSchedule.pdf)
