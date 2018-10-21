@@ -17,4 +17,6 @@
 * Buy all the needed Items
 # Week 5 
 * Here is my proof of purchase
+![Sensor+Cable](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/parts list.PNG)
+![RaspberryPi](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/RPI.PNG	)
 
