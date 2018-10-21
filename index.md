@@ -7,5 +7,7 @@
 # Week 2
 * I created and submitted my proposal this week
 * Start working on my project plan for week 3
-
+# Week 3 
+* Completed my proposal
+* Continue my research for the project
 ![ProjectPlan](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/WinsonProjectSchedule.pdf)
