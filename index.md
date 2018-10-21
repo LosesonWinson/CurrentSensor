@@ -11,3 +11,10 @@
 * Completed my proposal
 * Continue my research for the project
 ![ProjectPlan](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/WinsonProjectSchedule.pdf)
+# Week 4
+* Figured out what I need to purchase for the project
+* Submitted my budget proposal to the instuctor
+* Buy all the needed Items
+# Week 5 
+* Here is my proof of purchase
+
