@@ -19,13 +19,13 @@ https://github.com/LosesonWinson/CurrentSensor
 # Week 5 
 * Bought my parts and here is my proof of purchase
 ![Sensor+Cable](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/parts%20list.PNG)
-![RaspberryPi](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/RPI.PNG	)
+![RaspberryPi](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/RPI.PNG)
 
 # Week 6 
 * The parts came in and now im ready to begin the assignment
 * Met with my psuedo code assignment group and, completed the assignment
-![sensor](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/sensor.jpg	)
+![sensor](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/sensor.jpg)
 
 # Week 7
 * I soldered on the heads on my sensor and I will start creating the breadboard for the project
-![solderedhead](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/soldered.jpg	)
+![solderedhead](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/soldered.jpg)
