@@ -1,6 +1,7 @@
 
 # CurrentSensor
-
+# Repository
+https://github.com/LosesonWinson/CurrentSensor
 # Week 1 
 * I first chose my sensor for the hardware project for semester 5 of this course. It was the INA219 High-Side DC Current/Voltage sensor
 * Created my repository to store my files in
@@ -23,6 +24,8 @@
 # Week 6 
 * The parts came in and now im ready to begin the assignment
 * Met with my psuedo code assignment group and, completed the assignment
+![sensor](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/sensor.jpg	)
 
 # Week 7
 * I soldered on the heads on my sensor and I will start creating the breadboard for the project
+![solderedhead](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/soldered.jpg	)
