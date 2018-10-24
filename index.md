@@ -29,3 +29,13 @@ https://github.com/LosesonWinson/CurrentSensor
 # Week 7
 * I soldered on the heads on my sensor and I will start creating the breadboard for the project
 ![solderedhead](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/soldered.jpg)
+
+# Week 8
+* I was not able to complete my raspberry pi setup in time, but I used one of my classmates raspberry pi to show that my sensor is properly working
+* At first the address that was being displayed was not the one that is required. The address on the sensor was 0x40 instead of 0x4C. I needed to change the address on the sensor, and you can achieve this by connecting A0 to GND and A1 to SCL. A0 and A1 are GND by default so all I needed to do was connect A1 to SCL.
+![image1](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/week8img2.jpg)
+![image2](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/week8img1.jpg)
+![image3](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/week8img4.jpg)
+![image4](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/week8img5.jpg)
+![image5](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/week8img3.jpg)
+
