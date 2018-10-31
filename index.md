@@ -38,4 +38,12 @@ https://github.com/LosesonWinson/CurrentSensor
 ![image3](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/week8img4.jpg)
 ![image4](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/week8img5.jpg)
 ![image5](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/week8img3.jpg)
+# Week 9
+* Today we completed our PCB creation on Fritzing, and now we need to email the gerber files to the Prototype Lab to get it created
+* Currently I'm on a decent track for the completion of project. I have at least submited something every single week so far, but I'm still having problems with completely setting up my raspberry pi.
+* My current financial situation is ok currently, because I'm still living with my parents
+* Here is my breadboard, schematic and pcb
+![breadboard](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/inabreadboard_bb.png)
+![schematic](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/inabreadboard_schem.png)
+![pcb](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/inabreadboard_pcb.png)
 
