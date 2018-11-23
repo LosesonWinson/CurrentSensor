@@ -55,3 +55,6 @@ Today was the hardware demostration milestone for the project. I was able to sho
 Last week I was given some headers from the Prototype Lab to use on my PCB, because of the Canada Post strike my order on the headers were and still are delayed. I did not think I needed to purchase some headers when I created my budget proposal, but it was only $8 dollars for the whole order.
 
 A problem I did not anticipate occured when I started the program. I could not properly read the voltage values, but the current values are completely fine and I'm not sure how to resolve this issue.
+
+# Week 12
+I messed up my case so i would need to get a new one completed on monday. This blog will be updated by then
