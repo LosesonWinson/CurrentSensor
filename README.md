@@ -16,4 +16,20 @@
 Building this project will require time and commitment and I believe the best way to keep track of this progress is to write it to a blog. 
 In other words, to set up a website and using GitHub to host it. 
 
+### Introduction using a system diagram
+
 ### Creating a Budget
+
+### Total Time Commitment
+
+### Mechanical Assembly
+
+### PCB/Soldering
+
+### Power Up
+
+### Unit Testing
+
+### Production Testing
+ 
+### Reproducible?
