@@ -51,7 +51,7 @@ Insert the SD card to the SD card reader from the Raspberry Pi package. If the O
 ### Unit Testing
 
 ### Production Testing
- 
+Once the program has successfully ran the output will display the current from the load.
 ### Reproducible?
 
 If you follow my build instructions and my schematic diagram you will be able to reproduce my project. 
