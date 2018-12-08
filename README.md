@@ -17,7 +17,8 @@ Building this project will require time and commitment and I believe the best wa
 In other words, to set up a website and using GitHub to host it. 
 
 ### Introduction using a system diagram
-
+![Schematic Diagram](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/sysdia.png)
+This schematic diagram will help assist in replicating CurrentSensor. The purpose of this project is to detect current read from the sensor.
 ### Creating a Budget
 
 ### Total Time Commitment
