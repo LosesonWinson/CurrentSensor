@@ -18,8 +18,17 @@ In other words, to set up a website and using GitHub to host it.
 
 ### Introduction using a system diagram
 ![Schematic Diagram](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/sysdia.png)
-This schematic diagram will help assist in replicating CurrentSensor. The purpose of this project is to detect current read from the sensor.
+This schematic diagram will help assist in replicating CurrentSensor. The purpose of this project is to detect current.
+
 ### Creating a Budget
+The total budget to create this project will cost $127.30 if I already had the breadboard and the jumper wires. If you don't have a breadboard and jumper wires it would cost $146.30.
+1. Raspberry Pi 3, $112.99 - <https://www.amazon.ca/CanaKit-Raspberry-Complete-Starter-Kit/dp/B01CCF6V3A/ref=sr_1_5?s=pc&ie=UTF8&qid=1516324581&sr=1-5&keywords=Raspberry+Pi+3>
+
+2. Devantech Pixel 8 Thermal Array Sensor, $13.32 - <https://www.adafruit.com/product/904>
+
+3. Breadboard, $5.99 - <https://www.amazon.ca/OSEPP-Breadboard-400-Points-Components-LS-00018/dp/B00EFZV2CG/ref=sr_1_5?ie=UTF8&qid=1516329412&sr=8-5&keywords=breadboard>
+
+4. Jumper Wires, $13.99 - <https://www.amazon.ca/Foxnovo-Multicolored-40-pin-Female-Breadboard/dp/B00NPZO7CY/ref=sr_1_29?s=electronics&ie=UTF8&qid=1516329536&sr=1-29&keywords=jumper+wires>
 
 ### Total Time Commitment
 This project can be completed quickly if the schematic diagram is followed. 
