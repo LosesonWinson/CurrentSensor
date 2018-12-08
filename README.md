@@ -68,10 +68,16 @@ To check if the project is connected and detecting the sensor, open a terminal a
 ```
 sudo i2cdetect –y 1
 ``` 
+This command will display a output of address 40. 
+In order to test this sensor a Python program needs to be created  
+The C file can be downloaded from <https://learn.adafruit.com/adafruit-ina219-current-sensor-breakout/python-circuitpython> 
+Save the C file as 
+```
+yourfile.py
+```
 
 ### Production Testing
 Once the program has successfully ran the output will display the current from the load.
-### Reproducible?
 
+### Reproducible?
 If you follow my build instructions and my schematic diagram you will be able to reproduce my project. 
-I have provided a GitHub, budget, instructions, diagram, code, and instructions on how to run the code.  
