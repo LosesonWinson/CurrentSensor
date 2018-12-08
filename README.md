@@ -37,6 +37,7 @@ At the end of the project the sensor will be able to sense current.
 You can you use a PCB to replace a breadboard. If you use my PCB Schema as a guide you can easily create a PCB. But you can easily replicate a PCB with just a breadboard. ![PCB](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/inabreadboard_pcb.png)
 
 ### Power Up
+Insert the SD card to the SD card reader from the Raspberry Pi package. If the OS is installed insert the SD card into the SD slot of the Raspberry Pi and plug in the power. The Raspberry Pi will boot up however, since this is the first boot up. Users are required to set up the operating system and configure their settings. An important step is to sign in to the Wi-Fi network so it can have internet connection. Go to Start> Raspberry Pi configuration > Interfaces and ensure I2C is enabled.
 
 ### Unit Testing
 
