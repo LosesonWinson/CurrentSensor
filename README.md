@@ -44,3 +44,6 @@ Insert the SD card to the SD card reader from the Raspberry Pi package. If the O
 ### Production Testing
  
 ### Reproducible?
+
+If you follow my build instructions and my schematic diagram you will be able to reproduce my project. 
+I have provided a GitHub, budget, instructions, diagram, code, and instructions on how to run the code.  
