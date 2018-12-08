@@ -49,6 +49,17 @@ You can you use a PCB to replace a breadboard. If you use my PCB Schema as a gui
 Insert the SD card to the SD card reader from the Raspberry Pi package. If the OS is installed insert the SD card into the SD slot of the Raspberry Pi and plug in the power. The Raspberry Pi will boot up however, since this is the first boot up. Users are required to set up the operating system and configure their settings. An important step is to sign in to the Wi-Fi network so it can have internet connection. Go to Start> Raspberry Pi configuration > Interfaces and ensure I2C is enabled.
 
 ### Unit Testing
+You need to first update your Pi and Python
+```
+sudo apt-get update
+```
+```
+sudo apt-get upgrade
+```
+Install your Python Libraries 
+```
+pip3 install RPI.GPIO
+```
 First you need to download the INA219 library, open a terminal and type
 ```
 sudo pip3 install adafruit-circuitpython-ina219
