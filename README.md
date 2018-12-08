@@ -22,6 +22,10 @@ This schematic diagram will help assist in replicating CurrentSensor. The purpos
 ### Creating a Budget
 
 ### Total Time Commitment
+This project can be completed fairly quickly if the schematic diagram is followed. 
+I would approximate 3 hours daily for 3-4 days should be required. 
+Throughout this project, PCB creation, soldering, connecting wires, and testing the code will be needed to test if the sensor successfully reads data. 
+At the end of the project the sensor will be able to sense current. 
 
 ### Mechanical Assembly
 
