@@ -71,11 +71,15 @@ sudo i2cdetect –y 1
 This command will display a output of address 40. 
 In order to test this sensor a Python program needs to be created  
 The C file can be downloaded from <https://learn.adafruit.com/adafruit-ina219-current-sensor-breakout/python-circuitpython> 
-Save the C file as 
+Save the file as 
 ```
-yourfile.py
+yourFile.py
 ```
-
+Then run the file 
+```
+python3 yourFile.py
+```
+![output](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/output.png)
 ### Production Testing
 Once the program has successfully ran the output will display the current from the load.
 
