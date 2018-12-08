@@ -29,6 +29,10 @@ At the end of the project the sensor will be able to sense current.
 
 ### Mechanical Assembly
 
+1. Use jumper wires to connect vcc on the sensor to the 5v on the Raspberry Pi
+2. Use jumper wires to connect GND on the sensor to the GND on the Raspberry Pi
+3. Use jumper wires to connect SCL on the sensor to the SCL on the Raspberry Pi
+4. Use jumper wires to connect SDA on the sensor to the SDA on the Raspberry Pi
 ### PCB/Soldering
 
 ### Power Up
