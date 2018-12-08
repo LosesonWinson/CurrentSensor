@@ -22,8 +22,8 @@ This schematic diagram will help assist in replicating CurrentSensor. The purpos
 ### Creating a Budget
 
 ### Total Time Commitment
-This project can be completed fairly quickly if the schematic diagram is followed. 
-I would approximate 3 hours daily for 3-4 days should be required. 
+This project can be completed quickly if the schematic diagram is followed. 
+I would approximate 3 hours daily for 2-3 days should be required. 
 Throughout this project, PCB creation, soldering, connecting wires, and testing the code will be needed to test if the sensor successfully reads data. 
 At the end of the project the sensor will be able to sense current. 
 
@@ -34,6 +34,7 @@ At the end of the project the sensor will be able to sense current.
 3. Use jumper wires to connect SCL on the sensor to the SCL on the Raspberry Pi
 4. Use jumper wires to connect SDA on the sensor to the SDA on the Raspberry Pi
 ### PCB/Soldering
+You can you use a PCB to replace a breadboard. If you use my PCB Schema as a guide you can easily create a PCB. But you can easily replicate a PCB with just a breadboard. ![PCB](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/inabreadboard_pcb.png)
 
 ### Power Up
 
