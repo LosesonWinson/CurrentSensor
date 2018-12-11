@@ -1,5 +1,5 @@
 # Build instructions for the Current Sensor
-
+![build](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/20181212_073023.jpg)
 ## Table of Contents
 1. [Record Progress of the Project](#Record-Progress-of-the-Project)
 2. [Introduction using a system diagram](#Introduction-using-a-system-diagram)
@@ -36,11 +36,13 @@ Throughout this project, PCB creation, soldering, connecting wires, and testing 
 At the end of the project the sensor will be able to sense current. 
 
 ### Mechanical Assembly
+1. Solder the headers onto the sensor
+2. Use jumper wires to connect vcc on the sensor to the 5v on the Raspberry Pi
+3. Use jumper wires to connect GND on the sensor to the GND on the Raspberry Pi
+4. Use jumper wires to connect SCL on the sensor to the SCL on the Raspberry Pi
+5. Use jumper wires to connect SDA on the sensor to the SDA on the Raspberry Pi
+![bread](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/20181212_073351.jpg)
 
-1. Use jumper wires to connect vcc on the sensor to the 5v on the Raspberry Pi
-2. Use jumper wires to connect GND on the sensor to the GND on the Raspberry Pi
-3. Use jumper wires to connect SCL on the sensor to the SCL on the Raspberry Pi
-4. Use jumper wires to connect SDA on the sensor to the SDA on the Raspberry Pi
 ### PCB/Soldering
 You can you use a PCB to replace a breadboard. If you use my PCB Schema as a guide you can easily create a PCB. But you can easily replicate a PCB with just a breadboard. ![PCB](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/inabreadboard_pcb.png) You need to solder some headers to the PCB. You need a 20-pin and a 6-pin headers for this. 
 ![CompPCB](https://raw.githubusercontent.com/LosesonWinson/CurrentSensor/master/PCB.jpg)
